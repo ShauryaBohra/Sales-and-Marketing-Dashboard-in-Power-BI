@@ -1,3 +1,8 @@
+
+![1](https://github.com/user-attachments/assets/4f9fec7d-d125-421a-9079-c63c78aa1843)
+![2](https://github.com/user-attachments/assets/6daa1a0b-3c7a-40ac-a10e-cfba5ca77215)
+
+
 🚀 Sales and Marketing Dashboard in Power BI
 This dynamic and interactive Power BI dashboard provides actionable insights into key sales and marketing performance metrics, delivering a visually compelling and data-driven solution for business decision-making.
 
